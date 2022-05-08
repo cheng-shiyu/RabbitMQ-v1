@@ -7,7 +7,10 @@
   <groupId>com.chengshiyu</groupId>
   <artifactId>RabbitMQ-v1.0.0</artifactId>
   <version>v.1.0.0</version>
-  <packaging>war</packaging>
+    <modules>
+        <module>RabbitMQ-02</module>
+    </modules>
+    <packaging>pom</packaging>
 
   <name>RabbitMQ-v1.0.0 Maven Webapp</name>
 
